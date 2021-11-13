@@ -9,3 +9,5 @@ I cacluated Burn out Rate with help of Month of Joining, Gender, Company type, D
   6. I used linear regression to build the model.
   7. I have used skicit learns libraries to perform linear regression and have added the predicted values of burn rate in the test data set.
   8.  Accuracy of the Model turns out to be 55.53% using Linear Regression
+
+## The ML Model was made using Linear Regression

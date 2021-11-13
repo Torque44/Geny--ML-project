@@ -1,5 +1,5 @@
-# Geny--ML-project
-ML Model to Find burn of Respective Employees 
+## Geny--ML-project
+# ML Model to Find burn of Respective Employees 
 I cacluated Burn out Rate with help of Month of Joining, Gender, Company type, Designation, Resource Allocation and Mental Fatigue Score
   1. Before beginning with Machine Learning I have analysed the data and have done data pre processing.
   2. All the dates were of year 2008 so I have used th concept of feature engineering to add a new feature with the month as date and year will be insignificant.
